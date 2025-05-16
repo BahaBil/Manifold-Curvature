@@ -6,3 +6,4 @@ One of the key contributions of the paper is the introduction of a **manifold cu
 
 - An implementation of the proposed curvature metric.
 - A replication of the results shown in **Figure 2** of the paper.
+- An example of how this metric works on a 3D point cloud object (Stanford Bunny)
