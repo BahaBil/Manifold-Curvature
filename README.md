@@ -9,4 +9,5 @@ One of the key contributions of the paper is the introduction of a **manifold-ba
 - An example of how this metric works on a 3D point cloud object (Stanford Bunny)
 
 The paper: https://www.nature.com/articles/s44172-024-00263-8
+
 How to cite: Sekmen, A., Bilgin, B. Manifold-based approach for neural network robustness analysis. Commun Eng 3, 118 (2024). https://doi.org/10.1038/s44172-024-00263-8
